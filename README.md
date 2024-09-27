@@ -1,6 +1,15 @@
 # LITA-class-project
 ## Project Title: E-Commmerce Sales Analysis
 ---
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Preparations
+
+
 
 ### Project Overview
 ---
@@ -33,6 +42,14 @@ EDA
 - What is the overall sales trend
 - which products are top sellers
 - What are the prpducts on peak sales
+
+
+### Data Visualisation
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|--------|
 
 ### Data Analysis
 This is where we included basic lines of codes or DAX expressions
